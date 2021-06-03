@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the Boot and Spatterdash next door but one to the Vine Tavern in Long-Acre, near Drury-Lane, liveth a German Dr. and surgeon. Who by the blessing of God on his great pains, travels and experience, hath had wonderful success in the cure of the diseases following.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17284</idno><idno type="EEBO-CITATION">99888914</idno>
+  <idno type="VID">196043</idno>
+  <idno type="EEBO-PROQUEST">2248544118</idno>
+  
+            <idno type="STC">Wing A4098hA</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[51]</idno>
+            <idno type="STC">ESTC R232509</idno>
+            <idno type="PROQUEST">ocm99888914</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888914e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17284)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196043)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[51])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the Boot and Spatterdash next door but one to the Vine Tavern in Long-Acre, near Drury-Lane, liveth a German Dr. and surgeon. Who by the blessing of God on his great pains, travels and experience, hath had wonderful success in the cure of the diseases following.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1690?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from text.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Within ornamental border.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Surgeons --  England --  Early works to 1800.</term>
+               <term type="topical_term">Advertising --  Medicine --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_a_doctor">
+            <pb facs="tcp:196043:1"/>
+            <head>At the <hi>Boot</hi> and <hi>Spatterdash</hi> next Door but One to the <hi>Vine Tavern</hi> in <hi>Long-Acre,</hi> near <hi>Drury-Lane,</hi> Liveth a <hi>German</hi> Dr. and <hi>Surgeon.</hi>
+            </head>
+            <p>WHO by the Blessing of GOD on his great Pains, Tra<g ref="char:EOLhyphen"/>vels and Experience, hath had wonderful Success in the Cure of the Diseases following.</p>
+            <p>He carefully, and with great Expedition, Cures all Internal and External Distempers; all <hi>Vapours, Giddiness</hi> and <hi>Swiming</hi> of the <hi>Head, Fainting Fits, Noise</hi> in the <hi>Ears, Deafness, Dropsie, Yellow-Jaundice, Scurvy, Rheumatisms,</hi> Cold <hi>Flegmatick Stomacks,</hi> windy and tedious <hi>Coughs,</hi> Flowing of the <hi>Gall, Melancholly, Madness, Pluriste, Wind</hi> and <hi>Cholick, Palsie,</hi> all <hi>Pains</hi> or <hi>Aches</hi> of the <hi>Limbs,</hi> or any Part of the <hi>Body, La<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eness,</hi> Shrinking or Con<g ref="char:EOLhyphen"/>traction of the <hi>Nerves</hi> or <hi>Sinews, Scald Heads</hi> and <hi>Sore Legs, Bloody-Flux,</hi> stoppage of <hi>Ʋrine,</hi> and such as cannot hold their <hi>Water,</hi> Pains in making of <hi>Water,</hi> other Distempers not hitherto distinguish'd by Name. He hath Cured such when given over by others as incurable.</p>
+            <p>He also Cureth the <hi>French POX,</hi> with all its Accidents, as the Running of the <hi>Reins, Shankers, Bubo's</hi> or Swellings in the <hi>Groin,</hi> after a New Method, and in a short time; without <hi>Baths</hi> or <hi>Stoves,</hi> as also without <hi>Mercury,</hi> which many times prove De<g ref="char:EOLhyphen"/>structive to the Patient. And for the Satisfaction of all those who have been Sporting in the Garden of <hi>Venus,</hi> and in seeking for Pleasure, have met with a <hi>Clap</hi> or <hi>Gonorrhaea,</hi> if they come to him, he promises to Cure them in <hi>a short time as possible.</hi>
+            </p>
+            <p>He helpeth Bursten and Broken <hi>Bellies,</hi> either in Men, Women or Children, whether the <hi>Ruptures</hi> be in the <hi>Groin</hi> or <hi>Navel.</hi>
+            </p>
+            <p>He Cureth all <hi>Ʋlcers</hi> in the <hi>Throat</hi> or <hi>Mouth, Pala<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> or <hi>Nose,</hi> though never so bad, and left off as incurable by others.</p>
+            <p>I Recover and give <hi>Sight</hi> to the <hi>Blind,</hi> by <hi>Couching Cataracts.</hi>
+            </p>
+            <p>I Restore <hi>Sight</hi> in a Moment. I Cure Hair Lips in Six Days. <hi>the Cancer or Noli me Tangere in the Breast, or any other part of the Body.</hi>
+            </p>
+            <p>If any Person, be troubled with any Dstemper whatsoever Incident to the Body, will bring or send him their <hi>Ʋrine,</hi> he will be very read and willing to tell them, whether their Di<g ref="char:EOLhyphen"/>stemper be Curable or not.</p>
+            <p>
+               <hi>He Cureth Agues and Feavers, by an inward Application at; times taking.</hi>
+            </p>
+            <p>Therefore defer not the Time, but come to him before it is too late, and your Distempers have taken too great Root, and then he doth not question but to Cure you, let your Distempers and Maladies be what they will; and shall, <hi>and will be ready, ac<g ref="char:EOLunhyphen"/>cording to the best of his Art and Skill, to assist every one that stand in Need of him in the regaining of their Healths.</hi>
+            </p>
+            <pb facs="tcp:196043:2"/>
+            <p>If any Woman be unwilling to speak to me, they may have the conveniency of speaking to my Wife who is ex<g ref="char:EOLhyphen"/>pert in all womens Distempers.</p>
+            <p>I also cure Women and Maids that are subiect to vomiting, and take from them the quiverin<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and shaking occ<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sion'd by the same Infirmity. I also cure hard bellies, swell'd as with Child, or as if troubl'd with the Dropsie. There is yet another sort of sick<g ref="char:EOLhyphen"/>ness, <hi>when the Melancholy is not cleans'd and taken away, which occasi<g ref="char:EOLhyphen"/>ons grief and heavy thoughts, nay, sometimes Ragings, and an ill mind towards themselves and others.</hi> I cure the Pile or Hemorrhoids in the Fundament, all Warts, Excrescencies or superfluous Flesh in the mouth of the Bladder or Womb.</p>
+            <p>I likewise cure all Ruptures or bursten Bellies, either in Women or children, nay, tho they have had it many Years. I take the Stone from Women and Maids without cutting. I have also an aporov'd Reme<g ref="char:EOLhyphen"/>dy for a pain in the Loins or small of the back, whether proceed<g ref="char:EOLhyphen"/>ing from Gravel or Child-bearing: as also a pain in making Wa<g ref="char:EOLhyphen"/>ter, or those that cannot hold their Water, but are troubled with a constant leaking or dropping as they go, let it proceed from what Cause it will. I drive away all Gouty Pains in the Joynts, nay, the your Arms and Legs were grown-crooked, or thro' con<g ref="char:EOLhyphen"/>traction, or shrinking of the Sinews, nay, tho you have kept your Bed for many Years, by the Blessing of God, I don't doubt but to relieve you. I dare presume few have arriv'd to the perfection in this Cure as my self.</p>
+            <p>There are many other cures in women: I shall conclude with this, that I correct all Vices in the <hi>Matrix,</hi> and refresh all the weak <hi>Faculties</hi> in the body: by this means rendering a Woman capable of conception that before was <hi>Barren.</hi>
+            </p>
+            <p>I cure Out-hanging, of the Matrix; that is, when the Liga<g ref="char:EOLhyphen"/>ments, or Strings that bind the Mother fast to the body, remove from their Place, occasion'd either by bearing of children, violent <hi>Coughing,</hi> heavy work, in 14 or 16 days; I artiticially return it to its proper place; which I challenge any <hi>Person</hi> to do but my self.</p>
+            <p>
+               <hi>Those who are not able to come to me, let them send their Ʋrin, and on sight thereof, I will resolve them what their Distemper is, and if cura<g ref="char:EOLhyphen"/>ble will perform it at a reasonable Rate; but if not curable, will plain<g ref="char:EOLhyphen"/>ly and honestly tell them, that they may not be defrauded by others.</hi>
+            </p>
+            <p>
+               <hi>My Hours are from 9 till</hi> 12 <hi>in the Morning, and from</hi> 2 <hi>in the After<g ref="char:EOLhyphen"/>noon till</hi> 7 <hi>at Night.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
